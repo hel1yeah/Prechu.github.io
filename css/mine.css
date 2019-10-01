@@ -1,0 +1,134 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+.container {
+	width: 630px;
+	margin: 0 auto;
+}
+.imglog {
+	float: left;
+	margin: 26px 0px 10px 30px;
+}
+.logotext{
+ float: right;
+}
+ .logotext h1 {
+ 	font-size: 48px;
+ 	margin: 0px 0px 0px 15px;
+ 	padding: 0;
+}
+
+.imgmenu {
+	float: right;
+	margin: 26px 26px 0px 30px;
+}
+.clearfix:after {
+	content:'';
+	display: table;
+	width: 100%;
+	clear: both;
+}
+header {
+	margin:0 ;
+	padding:0 ;
+}
+.too {
+	height: 245px;
+	background: url(../img/bg__2_containet.png) no-repeat center top /cover;
+}
+.phone img {
+	float: left;
+	margin: 22px 65px 0px 37px;
+}
+ .textphone {
+ 	padding: 0;
+ 	margin: 0;
+}
+ .too h2 {
+ 	margin: 0px 0px 0px 0px;
+ 	font-size: 30px;
+ 	letter-spacing:-2px;
+ 	padding: 22px 0px 0px 0px;
+}
+.textphone p {
+	font-size: 22px;
+	margin:0;
+	padding: 0;
+}
+
+button {
+	border: none;
+	background: #000000;
+	width: 240px;
+	float: left;
+	display: block;
+	font-size: 31px;
+	padding: 0px 0px 0px 0px;
+	margin:  35px 0px 0px 0px;
+}
+
+.button img {
+	padding: 0px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+}
+
+.button__bord img {
+	margin:  5px 12px 0px 12px;
+	padding: 0px 0px 0px 0px;
+}
+
+.test img{
+	float: left;
+	padding: 0px 0px 0px 0px;
+	margin: 40px 27px 17px 43px;
+}
+.test h3 {
+	color: #5094F2;
+	font-size: 35px;
+	margin: 0px 0px 0px 0px;
+	padding: 62px 0px 0px 0px;
+}
+
+.test p {
+	color: #909090;
+	font-size: 18px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+.test {
+	margin: 0px 0px 22px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.text_top h4 {
+	font-size: 42px;
+	color: #6F7173;
+	text-align: center;
+	margin: 20px 0px 35px 0px;
+	padding:0px;
+}
+.imgCenter {text-align:center;}
+
+.text__botton__top h5 {
+	font-size: 42px;
+	color: #6F7173;
+	margin: 20px 0px 0px 75px;
+	padding:0px; 
+}
+.text__botton__top p {
+	font-size: 17px;
+	color: #6F7173;
+	margin: 20px 0px 0px 75px;
+	padding:0px;
+	line-height:40px; 
+}
+footer {
+	text-align: center;
+	color: #6F7173;
+	font-size: 16px;
+	padding: 0px;
+	margin: 34px 0px 20px 0px;
+
+}
